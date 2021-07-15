@@ -8,19 +8,22 @@
 
 <h4>• backend</h4>
 <p>
- <img alt="C" src="https://img.shields.io/badge/-C-228B22?&logo=C&logoColor=white" />
- <img alt="Python" src="https://img.shields.io/badge/-Python-8AEBE2?&logo=Python&logoColor=white" />
+ <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?&logo=C&logoColor=white" />
+ <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white" />
 </p>
 
 <h4>• database</h4>
 <p>
-  <img alt="MySql" src="https://img.shields.io/badge/MySQL-%2300f.svg?&&logo=mysql&logoColor=white"/>
+  <img alt="MySql" src="https://img.shields.io/badge/-MySQL-4479A1?&&logo=mysql&logoColor=white"/>
 </p>
 
 <h4>• etc</h4>
 <p>
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-000000?logo=github&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" />
+  <img alt="AdobePhotoshop" src="https://img.shields.io/badge/-AdobePhotoshop-31A8FF?logo=AdobePhotoshop&logoColor=white" />
+  <img alt="AdobeIllustrator" src="https://img.shields.io/badge/-AdobeIllustrator-FF9A00?logo=AdobeIllustrator&logoColor=white" />
 </p>
+<br>
 
 [![Aaliyahee's github stats](https://github-readme-stats.vercel.app/api?username=Aaliyahee&count_private=true&show_icons=true&theme=prussian&hide_border=true&include_all_commits=1)](https://github.com/Aaliyahee/github-readme-stats)
 <br>
