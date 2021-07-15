@@ -19,7 +19,5 @@
 
 <h4>Etc</h4>
 <p>
-  <img alt="Jira" src="https://img.shields.io/badge/Jira_Software-0052CC?style=flat&logo=Jira-Software&logoColor=white"/>
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/></a>
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-000000?logo=github&logoColor=white" />
 </p>
