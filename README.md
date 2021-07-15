@@ -21,3 +21,7 @@
 <p>
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-000000?logo=github&logoColor=white" />
 </p>
+
+[![Aaliyahee's github stats](https://github-readme-stats.vercel.app/api?username=Aaliyahee&count_private=true&show_icons=true&theme=prussian&hide_border=true&include_all_commits=1)](https://github.com/Aaliyahee/github-readme-stats)
+<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ooakt)](https://solved.ac/ooakt/)
