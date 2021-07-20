@@ -1,4 +1,7 @@
-<h3>🐣 TECHNOLOGY STACK🐣</h3>
+[![Aaliyahee's github stats](https://github-readme-stats.vercel.app/api?username=Aaliyahee&count_private=true&show_icons=true&theme=prussian&hide_border=true&include_all_commits=1)](https://github.com/Aaliyahee/github-readme-stats)
+<br>
+
+<h2><strong>🐣 TECHNOLOGY STACK🐣</strong></h2>
 
 <h4>• frontend</h4>
 <p>
@@ -25,6 +28,5 @@
 </p>
 <br>
 
-[![Aaliyahee's github stats](https://github-readme-stats.vercel.app/api?username=Aaliyahee&count_private=true&show_icons=true&theme=prussian&hide_border=true&include_all_commits=1)](https://github.com/Aaliyahee/github-readme-stats)
-<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ooakt)](https://solved.ac/ooakt/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaliyahee&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) 
