@@ -26,7 +26,3 @@
   <img alt="AdobePhotoshop" src="https://img.shields.io/badge/-AdobePhotoshop-31A8FF?logo=AdobePhotoshop&logoColor=white" />
   <img alt="AdobeIllustrator" src="https://img.shields.io/badge/-AdobeIllustrator-FF9A00?logo=AdobeIllustrator&logoColor=white" />
 </p>
-<br>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ooakt)](https://solved.ac/ooakt/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaliyahee&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) 
