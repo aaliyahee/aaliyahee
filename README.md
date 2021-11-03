@@ -1,4 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faaliyahee&count_bg=%23EB81AC&title_bg=%238A8287&icon=&icon_color=%23FD75AA&title=%E2%99%A5&edge_flat=false)](https://hits.seeyoufarm.com)
+<br>
 
 [![Aaliyahee's github stats](https://github-readme-stats.vercel.app/api?username=Aaliyahee&count_private=true&show_icons=true&theme=prussian&hide_border=true&include_all_commits=1)](https://github.com/Aaliyahee/github-readme-stats)
 <br>
