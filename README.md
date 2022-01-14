@@ -3,6 +3,9 @@
 
 [![Aaliyahee's github stats](https://github-readme-stats.vercel.app/api?username=Aaliyahee&count_private=true&show_icons=true&theme=prussian&hide_border=true&include_all_commits=1)](https://github.com/Aaliyahee/github-readme-stats)
 <br>
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ooakt)](https://solved.ac/ooakt)
+<br>
 <br>
 
 <h2><strong>🐣 TECHNOLOGY STACK🐣</strong></h2>
